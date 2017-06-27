@@ -1,0 +1,10 @@
+com/mvcapp1/daopackage/UserJDBCTemplate.class
+com/mvcapp1/daopackage/UsersDAOInterface.class
+com/mvcapp1/services/Services.class
+com/mvcapp1/services/JSONFileUploader.class
+com/mvcapp1/controllerpackage/MyController.class
+com/mvcapp1/daopackage/UserMapper.class
+com/mvcapp1/services/FileUploadInterface.class
+com/mvcapp1/daopackage/UserDAO.class
+com/mvcapp1/controllerpackage/UserData.class
+com/mvcapp1/services/JSONFileUploader$1.class
